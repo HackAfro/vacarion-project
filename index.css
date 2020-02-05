@@ -3,7 +3,7 @@
 }
 
 .hero {
-  background: url('./beach-bg.jpg') no-repeat;
+  background: url('./assets/imgs/beach-bg.jpg') no-repeat;
   height: 500px;
   width: 100%;
 }
