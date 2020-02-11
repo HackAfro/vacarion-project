@@ -39,11 +39,13 @@ img {
   width: 100%;
   filter: brightness(50%);
 }
+
 .travel-stories {
   background: url('./assets/imgs/stories-bg.jpg') no-repeat;
   background-size: cover;
   height: 550px;
 }
+
 #footer {
   background-color: #13283a;
 }
