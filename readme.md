@@ -14,7 +14,3 @@ After installing the dependencies, go ahead and start the project using `npm sta
 All contributions are welcome, whether in the form of issues or pull requests.
 
 
-```bash
-npm start
-```
-
